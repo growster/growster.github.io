@@ -1,5 +1,6 @@
 title: 万事屋~
 logo: /assets/img/logo.jfif
-description: ——我的博客
-show_downloads: true
+description: ——一个啥都写点的博客
+show_downloads: false
+google_analytics: true 
 theme: jekyll-theme-minimal
