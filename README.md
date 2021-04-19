@@ -1,4 +1,3 @@
-[![.github/workflows/ci.yaml](https://github.com/growster/growster.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/growster/growster.github.io/actions/workflows/ci.yaml)
 
 ## 欢迎来到我的博客页面
 [点我直接打开博客](https://growster.github.io)
