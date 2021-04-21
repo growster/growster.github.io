@@ -20,6 +20,10 @@ description:       ——一个啥都写点的博客
 
 ##日常
 
+##Postcrossing
+*[介绍 An Introduction](./_posts/Postcrossing/Postcrossing介绍.html)
+*明信片墙 Postcard Gallery
+
 ##分享
 
 * * *
