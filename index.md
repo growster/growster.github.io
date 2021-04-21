@@ -1,7 +1,7 @@
 ---
 layout: default
 title:万事屋
-description:       ——一个啥都写点的博客
+description: ——一个啥都写点的博客
 ---
 
 ## 欢迎来到我的博客！
@@ -21,7 +21,7 @@ description:       ——一个啥都写点的博客
 ##日常
 
 ##Postcrossing
-*[介绍 An Introduction](./_posts/Postcrossing/Postcrossing介绍.html)
+*2021.4.21[介绍 An Introduction](./_posts/Postcrossing/Postcrossing介绍.html)
 *明信片墙 Postcard Gallery
 
 ##分享

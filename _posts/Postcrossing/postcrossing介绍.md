@@ -1,7 +1,6 @@
 ---
 layout: post
 title:ÍòÊÂÎİ
-description: -Postcrossing½éÉÜ
 ---
 
 ## Postcrossing½éÉÜ
