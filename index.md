@@ -8,24 +8,15 @@ description: ——一个啥都写点的博客
 
 * * *
 
-##随记
-
-*2021.4.19 [博客重生](./_posts/随记/2021 04 19-示例文章.html)
+*2022.4.17 [关于博客](./_posts/其他/2022_04_17_关于博客.md)
 
 * * *
 
 ##笔记
 
-*2021.4.19 [Link to another page](./another-page.html).
+##生活
 
-##日常
-
-##Postcrossing
-*2021.4.21[介绍 An Introduction](./_posts/Postcrossing/Postcrossing介绍.html)
-*明信片墙 Postcard Gallery
-
-##分享
-
+*2021.4.21[介绍 An Introduction](.\_posts\生活\Postcrossing\postcrossing介绍.md)
 
 * * *
 

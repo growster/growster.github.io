@@ -5,3 +5,5 @@ show_downloads: false
 google_analytics: true 
 theme: jekyll-theme-minimal
 intensedebate_identifier: SuPmHQPOx6AyJfAjCd0M
+footer-links:
+  github:growster
