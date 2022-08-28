@@ -1,6 +1,6 @@
 ---
 layout: post
-title:万事屋
+title: 万事屋
 ---
 
 ## Postcrossing介绍
