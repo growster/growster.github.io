@@ -16,7 +16,7 @@ description: ——一个啥都写点的博客
 
 ##生活
 
-*2021.4.21[介绍 An Introduction](.\_posts\生活\Postcrossing\postcrossing介绍.md)
+*2021.4.21[postcrossing介绍](.\_posts\生活\Postcrossing\postcrossing介绍.md)
 
 * * *
 
