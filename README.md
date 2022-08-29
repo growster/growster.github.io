@@ -1,4 +1,4 @@
-<!-- [![.github/workflows/ci.yaml](https://github.com/growster/growster.github.io/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/growster/growster.github.io/actions/workflows/ci.yaml) -->
+[![.github/workflows/pages.yaml](https://github.com/growster/growster.github.io/actions/workflows/pages.yaml/badge.svg?branch=main)](https://github.com/growster/growster.github.io/actions/workflows/pages.yaml) 
 
 ## 欢迎来到我的博客页面
 * * *
