@@ -2,11 +2,15 @@ title: 万事屋~
 logo: /assets/img/logo.jfif
 description:    ——一个啥都写点的博客
 google_analytics: false
+
+repository: growster/growster.github.io
 # authors: foreverneil
 theme: jekyll-theme-minimal
+
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 show_downloads: true #"true" or "false" (unquoted) to indicate whether to provide a download URL
 footer-links:
   github:growster
