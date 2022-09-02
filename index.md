@@ -13,9 +13,11 @@ description: ——一个啥都写点的博客
 * * *
 
 ## 笔记
+*
+
+* * *
 
 ## 生活
-
 * 2021.4.21 [postcrossing介绍](.\_posts\生活\Postcrossing\2022-04-18-postcrossing介绍.md)
 
 * * *
