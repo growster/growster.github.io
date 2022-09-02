@@ -4,7 +4,6 @@ description:    ——一个啥都写点的博客
 google_analytics: false
 # authors: foreverneil
 theme: jekyll-theme-minimal
-github: [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]
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
