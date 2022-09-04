@@ -37,6 +37,7 @@
       <section>
 
       {{ content }}
+        <!-- gitment评论功能 -->
         <div id="container"></div>
         <script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitment.browser.js"></script>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.css"/>
@@ -52,6 +53,7 @@
         })
         gitment.render('container')
         </script>
+        <!-- gitment评论功能END -->
       </section>
       <footer>
         {% if site.github.is_project_page %}
