@@ -1,4 +1,4 @@
-[![.github/workflows/pages.yaml](https://github.com/growster/growster.github.io/actions/workflows/pages.yaml/badge.svg?branch=main)](https://github.com/growster/growster.github.io/actions/workflows/pages.yaml) 
+[![Pages](https://github.com/growster/growster.github.io/actions/workflows/pages/badge.svg?branch=main)](https://github.com/growster/growster.github.io/actions/workflows/pages) 
 
 ## 欢迎来到我的博客页面
 * * *
